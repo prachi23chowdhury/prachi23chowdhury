@@ -21,7 +21,7 @@ Email: prachicmpi@gmail.com
 Location: Chattogram, Bangladesh
 
 ## 🌐 Connect with Me
-- 💻 GitHub: [https://github.com/your-username ](https://github.com/prachi23chowdhury) 
+- 💻 GitHub: https://github.com/prachi23chowdhury
 - 💼 LinkedIn: https://www.linkedin.com/in/your-linkedin-username  
 
 
