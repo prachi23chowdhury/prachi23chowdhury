@@ -22,6 +22,6 @@ Location: Chattogram, Bangladesh
 
 ## 🌐 Connect with Me
 - 💻 GitHub: https://github.com/prachi23chowdhury
-- 💼 LinkedIn: https://www.linkedin.com/in/your-linkedin-username  
+- 💼 LinkedIn: https://www.linkedin.com/in/prachi-chowdhury-8474723a2/  
 
 
