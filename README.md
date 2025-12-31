@@ -1,3 +1,4 @@
+![Banner](image-link-here)
 Hi,👋 I'm Prachi Chowdhury  
 💻 Frontend Web Developer
 I am a passionate Frontend Web Developer who loves building clean, user-friendly, and responsive web applications.  
