@@ -1,16 +1,19 @@
-## Hi there 👋
+Hi,👋 I'm Prachi Chowdhury  
+💻 Frontend Web Developer
+I am a passionate Frontend Web Developer who loves building clean, user-friendly, and responsive web applications.  
+I enjoy turning ideas into real-world projects using modern web technologies.  
+Currently, I am focusing on improving my skills and building meaningful projects.  
+I believe in continuous learning and self-improvement.
+### 🚀 What I'm Currently Doing
+- 🌱 Exploring **Next.js** and modern React patterns  
+- 🏗️ Working on a **Garments order and production system ** project  
+- 📚 Improving problem-solving and clean code practices  
+- 🤝 Open to learning and collaborating on new projects
 
-<!--
-**prachi23chowdhury/prachi23chowdhury** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+🛠 Skills
+HTML | CSS | JavaScript | React | Tailwind | Git | GitHub | Node JS | Mongodb
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 Contact
+Email: prachicmpi@gmail.com  
+Location: Chattogram, Bangladesh
