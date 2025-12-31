@@ -10,7 +10,8 @@ I believe in continuous learning and self-improvement.
 - 🏗️ Working on a **Garments order and production system ** project  
 - 📚 Improving problem-solving and clean code practices  
 - 🤝 Open to learning and collaborating on new projects
-
+- 
+I’m working on a tourism website.
 
 🛠 Skills
 HTML | CSS | JavaScript | React | Tailwind | Git | GitHub | Node JS | Mongodb
@@ -18,3 +19,9 @@ HTML | CSS | JavaScript | React | Tailwind | Git | GitHub | Node JS | Mongodb
 📫 Contact
 Email: prachicmpi@gmail.com  
 Location: Chattogram, Bangladesh
+
+## 🌐 Connect with Me
+- 💻 GitHub: [https://github.com/your-username ](https://github.com/prachi23chowdhury) 
+- 💼 LinkedIn: https://www.linkedin.com/in/your-linkedin-username  
+
+
